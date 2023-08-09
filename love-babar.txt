@@ -1,0 +1,4 @@
+pwd   FreeCourseUniverse
+
+
+npm concurrently package to run frontend and backend at a time.
